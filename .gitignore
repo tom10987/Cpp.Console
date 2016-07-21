@@ -1,0 +1,16 @@
+
+/.vs
+
+/[dD]ebug
+/[rR]elease
+/x86
+/x64
+/Win32
+
+*.sdf
+*.opendb
+*.user
+
+*.exe
+*.ilk
+*.pdb
